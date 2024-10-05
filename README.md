@@ -5,7 +5,8 @@
 ## Education
 - MASTER 2:MODELISATION ET ANALYSE NUMERIQUE           		
 - MASTER 1: MODELISATION ET ANALYSE NUMERIQUE	 			        		
-- LICENCE MATHEMATIQUES 
+- LICENCE MATHEMATIQUES
+- BACCALAUREAT SCIENTIFIQUE 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
