@@ -28,7 +28,5 @@
 
 ## Expérience
 
-- **Stage**
-
 - **Enseignant, 2018 - 2021**  
   Lycée La Renaissance (TCHAD) - CDD
