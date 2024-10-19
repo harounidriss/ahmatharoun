@@ -6,7 +6,7 @@
 
 - **Master 2 : Modélisation et analyse numérique** (en cours)  
   Université de Montpellier (Faculté des Sciences)  
-  _EDP, éléments finis, modélisation, transformation de Fourier, traitement de signal, traitement d'images_
+  _EDP,Estimation à posteriori, modélisation,transformation de Fourier, traitement de signal, traitement d'images_
 
 - **Master 1 : Mathématiques appliquées, Modélisation et analyse numérique**  
   Université de Montpellier (Faculté des Sciences)  
@@ -27,6 +27,7 @@
   Développement d’un projet d’investissement : Position du problème et modélisation, méthodes d’évaluation et de résolution, approche de résolution et résultats expérimentaux.
 
 ## Expérience
+- **Estimation à posteriori **
 
 - **Enseignant, 2018 - 2021**  
   Lycée La Renaissance (TCHAD) - CDD
