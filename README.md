@@ -40,5 +40,5 @@ pour calculer l'integrale de :
 
 .shéma numerique avec condition de stabilité CFL,erreur de convergence en norme L2.
 calcul des normes L2 et H1, puis tracer l'erreur L2 et H1.
-- **Enseignant, 2018 - 2021**  
+- **Enseignant 2018 - 2021**  
   Lycée La Renaissance (TCHAD) - CDD
