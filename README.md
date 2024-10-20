@@ -28,6 +28,7 @@
 
 ## Expérience
 - **Estimation à posteriori **
+  
 *Faire un code Python pour resoudre l'equation differentielle suivante:
 
 .Utilisation un schema d'Euler explicit et comparer avec la solution exacte
