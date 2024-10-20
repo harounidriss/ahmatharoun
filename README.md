@@ -4,11 +4,11 @@
 
 ## Formation
 
-- **Master 2 : Modélisation et analyse numérique** (en cours)  
+- **Master 2 : Modélisation et analyse numérique (MANU)** (en cours)  
   Université de Montpellier (Faculté des Sciences)  
   _EDP,Estimation à posteriori et adaptation de maillage, analyse numérique(H.H.O),Introduction aux problèmes inverses linéaires et application en réconstruction du signal et de l'image
 
-- **Master 1 : Mathématiques appliquées, Modélisation et analyse numérique**  
+- **Master 1 : Modélisation et analyse numérique (MANU)**  
   Université de Montpellier (Faculté des Sciences)  
   _Distributions, différences finies, éléments finis, optimisation, volumes finis_
 
