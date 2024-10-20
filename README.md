@@ -6,7 +6,7 @@
 
 - **Master 2 : Modélisation et analyse numérique** (en cours)  
   Université de Montpellier (Faculté des Sciences)  
-  _EDP,Estimation à posteriori, modélisation,transformation de Fourier, traitement de signal, traitement d'images_
+  _EDP,Estimation à posteriori et adaptation de maillage, analyse numérique(H.H.O),Introduction aux problèmes inverses linéaires et application en réconstruction du signal et de l'image
 
 - **Master 1 : Mathématiques appliquées, Modélisation et analyse numérique**  
   Université de Montpellier (Faculté des Sciences)  
@@ -28,6 +28,15 @@
 
 ## Expérience
 - **Estimation à posteriori **
+*Faire un code Python pour resoudre l'equation differentielle suivante:
 
+.Utilisation un schema d'Euler explicit et comparer avec la solution exacte
+tracer les solution exacte et numerique et l'erreur en temps sur 1 minute.
+Tracer la courbe de l'erreur L2 de la fonction et sa dérivée en fonction du pas de temps.
+
+.Comprenhension l'adaptation a posteriori en comparant l'integration de Riemann et Lebesgues
+pour calculer l'integrale de :
+.shéma numerique avec condition de stabilité CFL,erreur de convergence en norme L2.
+calcul des normes L2 et H1, puis tracer l'erreur L2 et H1.
 - **Enseignant, 2018 - 2021**  
   Lycée La Renaissance (TCHAD) - CDD
