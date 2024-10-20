@@ -31,11 +31,11 @@
   
 *Faire un code Python pour resoudre l'equation differentielle suivante:
 
-.Utilisation un schema d'Euler explicit et comparer avec la solution exacte
+Utilisation un schema d'Euler explicite et comparer avec la solution exacte
 tracer les solution exacte et numerique et l'erreur en temps sur 1 minute.
 Tracer la courbe de l'erreur L2 de la fonction et sa dérivée en fonction du pas de temps.
 
-.Comprenhension l'adaptation a posteriori en comparant l'integration de Riemann et Lebesgues
+Comprenhension sur l'adaptation a posteriori en comparant l'integration de Riemann et Lebesgues
 pour calculer l'integrale de :
 
 .shéma numerique avec condition de stabilité CFL,erreur de convergence en norme L2.
