@@ -20,7 +20,7 @@
 
 ## Projets réalisés
 
--** Stage de recherche Master 2 – Modélisation numérique (EMMAH, Université 
+- ** Stage de recherche Master 2 – Modélisation numérique (EMMAH, Université 
 d’Avignon): Modélisation numérique d'une méta-surface optimisée par un 
 algorithme inverse pour imager le sous-sol.
 
