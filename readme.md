@@ -4,7 +4,7 @@
 
 ## Formation
 
-- **Master 2 : Modélisation et analyse numérique** (en cours)  
+- **Master 2 : Modélisation et analyse numérique**   
   Université de Montpellier (Faculté des Sciences)  
   _EDP, éléments finis, modélisation, transformation de Fourier, traitement de signal, traitement d'images_
 
@@ -19,6 +19,10 @@
   Lycée Felix Éboué - N'Djaména, Tchad
 
 ## Projets réalisés
+
+-** Stage de recherche Master 2 – Modélisation numérique (EMMAH, Université 
+d’Avignon): Modélisation numérique d'une méta-surface optimisée par un 
+algorithme inverse pour imager le sous-sol.
 
 - **Projet de recherche M1 : Méthodes des éléments finis**  
   Résolution des systèmes linéaires variés, méthodes d'intégrations numériques variées, stockage de matrices creuses, comparaison de méthodes, méthodes d’ordre plus élevé, études de l’ordre des méthodes, etc.
